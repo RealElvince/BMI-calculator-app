@@ -6,6 +6,10 @@ The BMI  app calculator divides an adult's weight in kilograms by their height i
 # main screen
 ![main screen](https://user-images.githubusercontent.com/124202145/224542150-fec5dfe0-d9ac-4f6a-ae5b-e6520a82d6f6.png)
 
-# normal calculation and results
+# normal weight calculation and results
 ![calc1](https://user-images.githubusercontent.com/124202145/224542273-31c99874-5a1d-4a85-b95f-f4834ddf20c0.png)
 ![calc1](https://user-images.githubusercontent.com/124202145/224542273-31c99874-5a1d-4a85-b95f-f4834ddf20c0.png)
+
+
+# under =weight calculation and results
+![calc2](https://user-images.githubusercontent.com/124202145/224542386-b9c624a6-4ca8-43f1-9cd8-6f9bd5701337.png)
