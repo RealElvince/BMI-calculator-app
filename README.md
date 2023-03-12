@@ -8,7 +8,7 @@ The BMI  app calculator divides an adult's weight in kilograms by their height i
 
 # normal weight calculation and results
 ![calc1](https://user-images.githubusercontent.com/124202145/224542273-31c99874-5a1d-4a85-b95f-f4834ddf20c0.png)
-![normal](https://user-images.githubusercontent.com/124202145/224542907-82b95472-9380-4d69-ae14-f7af927db6b7.png)
+
 
 
 
@@ -19,5 +19,5 @@ The BMI  app calculator divides an adult's weight in kilograms by their height i
 
 # over weight calculation and results
 ![calc3](https://user-images.githubusercontent.com/124202145/224542714-538998b1-2568-44ac-bc84-0540db4d162b.png)
-![over](https://user-images.githubusercontent.com/124202145/224542792-b202e8e3-9577-4fc6-ae34-6b46457e1386.png)
+
 
